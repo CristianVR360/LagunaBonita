@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="17873" start="node3" appversion="6.1.2">
+<tour appversion="6.1.2" apprev="17873" start="node3">
   <panorama id="node3">
-    <input overlap="1" levelbiashidpi="1.000" height="2048" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
-      <level preload="0" height="2048" width="2048" predecode="0"/>
-      <level preload="0" height="1024" width="1024" predecode="0"/>
-      <level preload="0" height="512" width="512" predecode="0"/>
-      <level preload="1" height="256" width="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2048" width="2048" levelingpitch="0">
+      <level preload="0" predecode="0" height="2048" width="2048"/>
+      <level preload="0" predecode="0" height="1024" width="1024"/>
+      <level preload="0" predecode="0" height="512" width="512"/>
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="169.779" fovmode="0">
-      <start tilt="-90" pan="178.33" fov="90.87" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" pan="360" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
+      <start projection="4" pan="178.33" tilt="-90" fov="90.87"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata latitude="-40.884793" customnodeid="" info="" tags="LagunaBonita" title="Vista Principal" copyright="" author="" comment="" description="" source="" longitude="-72.579227" nodeid="node3" datetime="01-01-1970 0:00"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" textalpha="1" height="20" wordwrap="1" border="1" enabled="1" width="180" borderradius="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
-      <hotspot skinid="ht_tag_georeferencia_smallRightYellow" title="Ruta U-667" id="Point01" description="" tilt="-9.05" pan="-278.35" url="" target="_blank"/>
-      <hotspot skinid="ht_tag_acceso" title="Acceso" id="Point02" description="" tilt="-8.63" pan="-217.21" url="" target="_blank"/>
-      <hotspot skinid="ht_tag_georeferencia_mediumRight" title="Laguna Bonita" id="Point01" description="" tilt="-22.68" pan="-135.68" url="" target="_blank"/>
-      <hotspot skinid="ht_tag_georeferencia_smallLeft" title="Lago Rupanco" id="Point01" description="9 min |7,6 km" tilt="-3.07" pan="-13.92" url="images/sites_pages-664105b45d9c2.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumLeft" title="Lago Puyehue" id="Point01" description="50 min | 50 km&#xa;Ubicado en la Región de Los Ríos en Chile, es un hermoso destino turístico que ofrece una variedad de atractivos naturales y actividades. Aquí te menciono algunos de los principales atractivos turísticos de la zona: Parques, termas, actividades al aire libre, miradores. Cascadas, fauna y flores." tilt="-0.12" pan="-33.93" url="images/puyehue-lake-637945.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumRight" title="Volcán Osorno" id="Point01" description="El volcán Osorno es uno de los volcanes más emblemáticos de Chile, ubicado en la Región de Los Lagos, cerca de la ciudad de Puerto Varas y del lago Llanquihue.  Puedes realizar actividades como: senderismo, esquí, snowboard, entre otras." tilt="5.95" pan="-173.33" url="images/fondo-volcan-osorno-scaled.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_smallRight" title="Centro de Ski" id="Point01" description="1h 14 min | 62,3 km" tilt="-0.83" pan="-180.79" url="images/centro ski.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumRight" title="Lago Llanquihue" id="Point01" description="30 min | 23,6 km" tilt="-0.77" pan="-213.09" url="images/lago-llanquihue_prin-min.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumRight" title="Volcán Calbuco" id="Point01" description="11 min | 8,1 km" tilt="1.97" pan="-192.63" url="images/2972007183455705.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumLeft" title="Puerto Octay" id="Point01" description="41 min | 45 km&#xa;Es una comuna del sur de Chile, situada en la provincia de Osorno, a orillas del lago Llanquihue. Limita al norte con Puyehue y Osorno, al oeste con Río Negro y Purranque, al suroeste con Frutillar, y al sur y este con Puerto Varas. Puedes disfrutar de estos  atractivos turísticos que serán estos: Mirador, iglesias, cascadas, playas, senderismos y el lago Llanquihue &#xa;&#xa;" tilt="-0.41" pan="-248.63" url="images/Puerto_Octay.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_smallRight" title="Paso Cardenal Samoré" id="Point01" description="1h 30 min | 103 km&#xa;El Paso Internacional Cardenal Samoré es un importante cruce fronterizo entre Chile y Argentina, ubicado en la región de Los Lagos. Este paso conecta la ciudad chilena de Puyehue con la ciudad argentina de Neuquén. Es conocido por su hermoso paisaje montañoso y es un punto popular para turistas que desean explorar ambos países." tilt="2.04" pan="-73.5" url="images/paso internacional.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumLeft" title="Puerto Chalupa" id="Point01" description="40 min | 43,5 km" tilt="-1.28" pan="-354.01" url="images/playa.jpg" target=""/>
-      <hotspot skinid="ht_disponible" title="4" id="4" description="5000 m2" tilt="-53.84" pan="-38.19" url="" target="_blank"/>
-      <hotspot skinid="ht_disponible" title="6" id="6" description="5000 m2" tilt="-67.81" pan="-32.34" url="" target="_blank"/>
-      <hotspot skinid="ht_disponible" title="8" id="8" description="5000 m2" tilt="-65.33" pan="-66.91" url="" target="_blank"/>
-      <hotspot skinid="ht_disponible" title="10" id="10" description=" 7.500 m2" tilt="-71.07" pan="-91.35" url="" target="_blank"/>
-      <hotspot skinid="ht_tag_georeferencia_mediumLeft" title="Volcán Puntiagudo" id="Point01" description="" tilt="4.29" pan="-120.32" url="images/1444953969224469335.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumRight" title="Volcán Puyehue" id="Point01" description="El volcán Puyehue, ubicado en la Región de Los Ríos en Chile, es un atractivo turístico destacado que ofrece diversas actividades y experiencias para los visitantes. Como es el ascenso guiado por el volcán.&#xa;&#xa;" tilt="1.64" pan="-59.01" url="images/9520058235705.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumRight" title="Frutillar" id="Point01" description="59 min | 6,7 km&#xa;Es una hermosa localidad ubicada en la Región de Los Lagos, en el sur de Chile. Es conocida por su impresionante paisaje, que incluye vistas al Lago Llanquihue y al volcán Osorno. La ciudad tiene una rica herencia cultural, especialmente influenciada por la colonización alemana, lo que se refleja en su arquitectura y en la gastronomía local. Puedes disfrutar de sus playas y sus actividades acuáticas. &#xa;&#xa;" tilt="-0.66" pan="-261.65" url="images/frutillar_prin-min.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_largeRight" title="Puerto Varas" id="Point01" description="1 h 24 min | 95,9 km&#xa;Puerto Varas es una hermosa ciudad ubicada en la Región de Los Lagos, en el sur de Chile, a orillas del lago Llanquihue. Es conocida por su impresionante paisaje, que incluye vistas al volcán Osorno y al volcán Calbuco, así como por su arquitectura de influencia alemana. Sus principales atractivos turísticos serían: Volcán Osorno, Costanera, iglesia, cascada y lago.&#xa;&#xa;" tilt="0.35" pan="-254.63" url="images/puerto-varas_prin-min.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_mediumLeft" title="Osorno" id="Point01" description="58 min | 68,7 km&#xa; Osorno, ubicada en la Región de Los Lagos en Chile, es una ciudad con una rica historia y una variedad de atractivos turísticos. Acá te dejamos algunos de los principales lugares y actividades que puedes disfrutar en Osorno: Plaza de Armas, Museo Histórico y Arqueológico, Parque, Fuente de San Carlos de Ancud, Cerro de la Virgen, Rió Rahue y más " tilt="-1" pan="-316.38" url="images/catedral.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_largeRight" title="Termas de Puyehue" id="Point01" description="51 min | 59,9 km" tilt="-6.55651e-09" pan="-51.15" url="images/termas-puyehue-wellness.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_largeLeft" title="Parque nacional Puyehue" id="Point01" description="1 h 2 min | 77 km" tilt="0.35" pan="-42.33" url="images/Waterfall_puyehue.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_largeLeft" title="Petrohue" id="Point01" description="1h 10 min | 67,2 km" tilt="3.24" pan="-159.25" url="images/photo0jpg.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_largeLeft" title="Valdivia" id="Point01" description="2 h 19 min | 176 km&#xa;Valdivia-Corral, abarca el hermoso borde costero y fluvial del estuario del río Valdivia y la bahía de Corral. Puedes disfrutar de atractivos turísticos como: museos, parques, playas, áreas costeras y santuarios naturales. &#xa;&#xa;" tilt="-0.6" pan="-329.5" url="images/Valdivia_y_su_río.jpg" target=""/>
-      <hotspot skinid="ht_tag_georeferencia_smallLeft" title="Aedrónomo Cañal Bajo" id="Point01" description="56 min | 68,3 km&#xa;El Aeropuerto Cañal Bajo, también conocido como Aeropuerto de Osorno, se encuentra en la región de Los Lagos, en Chile. Es un aeropuerto pequeño que sirve principalmente vuelos nacionales." tilt="-2.5" pan="-306.57" url="images/Aeropuerto_Cañal_bajo.jpg" target=""/>
+    <userdata description="" source="" nodeid="node3" datetime="01-01-1970 0:00" longitude="-72.579227" customnodeid="" copyright="" title="Vista Principal" comment="" author="" info="" latitude="-40.884793" tags="LagunaBonita"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" backgroundalpha="1" border="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" background="1" textalpha="1" height="20" width="180" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+      <hotspot description="" id="Point01" pan="-278.35" title="Ruta U-667" skinid="ht_tag_georeferencia_smallRightYellow" tilt="-9.05" url="" target="_blank"/>
+      <hotspot description="" id="Point02" pan="-217.21" title="Acceso" skinid="ht_tag_acceso" tilt="-8.63" url="" target="_blank"/>
+      <hotspot description="" id="Point01" pan="-135.68" title="Laguna Bonita" skinid="ht_tag_georeferencia_mediumRight" tilt="-22.68" url="" target="_blank"/>
+      <hotspot description="9 min |7,6 km" id="Point01" pan="-13.92" title="Lago Rupanco" skinid="ht_tag_georeferencia_smallLeft" tilt="-3.07" url="images/sites_pages-664105b45d9c2.jpg" target=""/>
+      <hotspot description="50 min | 50 km&#xa;Ubicado en la Región de Los Ríos en Chile, es un hermoso destino turístico que ofrece una variedad de atractivos naturales y actividades. Aquí te menciono algunos de los principales atractivos turísticos de la zona: Parques, termas, actividades al aire libre, miradores. Cascadas, fauna y flores." id="Point01" pan="-33.93" title="Lago Puyehue" skinid="ht_tag_georeferencia_mediumLeft" tilt="-0.12" url="images/puyehue-lake-637945.jpg" target=""/>
+      <hotspot description="El volcán Osorno es uno de los volcanes más emblemáticos de Chile, ubicado en la Región de Los Lagos, cerca de la ciudad de Puerto Varas y del lago Llanquihue.  Puedes realizar actividades como: senderismo, esquí, snowboard, entre otras." id="Point01" pan="-173.33" title="Volcán Osorno" skinid="ht_tag_georeferencia_mediumRight" tilt="5.95" url="images/fondo-volcan-osorno-scaled.jpg" target=""/>
+      <hotspot description="1h 14 min | 62,3 km" id="Point01" pan="-180.79" title="Centro de Ski" skinid="ht_tag_georeferencia_smallRight" tilt="-0.83" url="images/centro ski.jpg" target=""/>
+      <hotspot description="30 min | 23,6 km" id="Point01" pan="-213.09" title="Lago Llanquihue" skinid="ht_tag_georeferencia_mediumRight" tilt="-0.77" url="images/lago-llanquihue_prin-min.jpg" target=""/>
+      <hotspot description="11 min | 8,1 km" id="Point01" pan="-192.63" title="Volcán Calbuco" skinid="ht_tag_georeferencia_mediumRight" tilt="1.97" url="images/2972007183455705.jpg" target=""/>
+      <hotspot description="41 min | 45 km&#xa;Es una comuna del sur de Chile, situada en la provincia de Osorno, a orillas del lago Llanquihue. Limita al norte con Puyehue y Osorno, al oeste con Río Negro y Purranque, al suroeste con Frutillar, y al sur y este con Puerto Varas. Puedes disfrutar de estos  atractivos turísticos que serán estos: Mirador, iglesias, cascadas, playas, senderismos y el lago Llanquihue &#xa;&#xa;" id="Point01" pan="-248.63" title="Puerto Octay" skinid="ht_tag_georeferencia_mediumLeft" tilt="-0.41" url="images/Puerto_Octay.jpg" target=""/>
+      <hotspot description="1h 30 min | 103 km&#xa;El Paso Internacional Cardenal Samoré es un importante cruce fronterizo entre Chile y Argentina, ubicado en la región de Los Lagos. Este paso conecta la ciudad chilena de Puyehue con la ciudad argentina de Neuquén. Es conocido por su hermoso paisaje montañoso y es un punto popular para turistas que desean explorar ambos países." id="Point01" pan="-73.5" title="Paso Cardenal Samoré" skinid="ht_tag_georeferencia_smallRight" tilt="2.04" url="images/paso internacional.jpg" target=""/>
+      <hotspot description="40 min | 43,5 km" id="Point01" pan="-354.01" title="Puerto Chalupa" skinid="ht_tag_georeferencia_mediumLeft" tilt="-1.28" url="images/playa.jpg" target=""/>
+      <hotspot description="5000 m2" id="4" pan="-39.31" title="4" skinid="ht_disponible" tilt="-54.53" url="" target="_blank"/>
+      <hotspot description="5000 m2" id="6" pan="-30.17" title="6" skinid="ht_disponible" tilt="-67.44" url="" target="_blank"/>
+      <hotspot description="5000 m2" id="8" pan="-65.85" title="8" skinid="ht_disponible" tilt="-64.92" url="" target="_blank"/>
+      <hotspot description=" 7.500 m2" id="10" pan="-91.77" title="10" skinid="ht_disponible" tilt="-70.38" url="" target="_blank"/>
+      <hotspot description="" id="Point01" pan="-120.32" title="Volcán Puntiagudo" skinid="ht_tag_georeferencia_mediumLeft" tilt="4.29" url="images/1444953969224469335.jpg" target=""/>
+      <hotspot description="El volcán Puyehue, ubicado en la Región de Los Ríos en Chile, es un atractivo turístico destacado que ofrece diversas actividades y experiencias para los visitantes. Como es el ascenso guiado por el volcán.&#xa;&#xa;" id="Point01" pan="-59.01" title="Volcán Puyehue" skinid="ht_tag_georeferencia_mediumRight" tilt="1.64" url="images/9520058235705.jpg" target=""/>
+      <hotspot description="59 min | 6,7 km&#xa;Es una hermosa localidad ubicada en la Región de Los Lagos, en el sur de Chile. Es conocida por su impresionante paisaje, que incluye vistas al Lago Llanquihue y al volcán Osorno. La ciudad tiene una rica herencia cultural, especialmente influenciada por la colonización alemana, lo que se refleja en su arquitectura y en la gastronomía local. Puedes disfrutar de sus playas y sus actividades acuáticas. &#xa;&#xa;" id="Point01" pan="-261.65" title="Frutillar" skinid="ht_tag_georeferencia_mediumRight" tilt="-0.66" url="images/frutillar_prin-min.jpg" target=""/>
+      <hotspot description="1 h 24 min | 95,9 km&#xa;Puerto Varas es una hermosa ciudad ubicada en la Región de Los Lagos, en el sur de Chile, a orillas del lago Llanquihue. Es conocida por su impresionante paisaje, que incluye vistas al volcán Osorno y al volcán Calbuco, así como por su arquitectura de influencia alemana. Sus principales atractivos turísticos serían: Volcán Osorno, Costanera, iglesia, cascada y lago.&#xa;&#xa;" id="Point01" pan="-254.63" title="Puerto Varas" skinid="ht_tag_georeferencia_largeRight" tilt="0.35" url="images/puerto-varas_prin-min.jpg" target=""/>
+      <hotspot description="58 min | 68,7 km&#xa; Osorno, ubicada en la Región de Los Lagos en Chile, es una ciudad con una rica historia y una variedad de atractivos turísticos. Acá te dejamos algunos de los principales lugares y actividades que puedes disfrutar en Osorno: Plaza de Armas, Museo Histórico y Arqueológico, Parque, Fuente de San Carlos de Ancud, Cerro de la Virgen, Rió Rahue y más " id="Point01" pan="-316.38" title="Osorno" skinid="ht_tag_georeferencia_mediumLeft" tilt="-1" url="images/catedral.jpg" target=""/>
+      <hotspot description="51 min | 59,9 km" id="Point01" pan="-51.15" title="Termas de Puyehue" skinid="ht_tag_georeferencia_largeRight" tilt="-6.55651e-09" url="images/termas-puyehue-wellness.jpg" target=""/>
+      <hotspot description="1 h 2 min | 77 km" id="Point01" pan="-42.33" title="Parque nacional Puyehue" skinid="ht_tag_georeferencia_largeLeft" tilt="0.35" url="images/Waterfall_puyehue.jpg" target=""/>
+      <hotspot description="1h 10 min | 67,2 km" id="Point01" pan="-159.25" title="Petrohue" skinid="ht_tag_georeferencia_largeLeft" tilt="3.24" url="images/photo0jpg.jpg" target=""/>
+      <hotspot description="2 h 19 min | 176 km&#xa;Valdivia-Corral, abarca el hermoso borde costero y fluvial del estuario del río Valdivia y la bahía de Corral. Puedes disfrutar de atractivos turísticos como: museos, parques, playas, áreas costeras y santuarios naturales. &#xa;&#xa;" id="Point01" pan="-329.5" title="Valdivia" skinid="ht_tag_georeferencia_largeLeft" tilt="-0.6" url="images/Valdivia_y_su_río.jpg" target=""/>
+      <hotspot description="56 min | 68,3 km&#xa;El Aeropuerto Cañal Bajo, también conocido como Aeropuerto de Osorno, se encuentra en la región de Los Lagos, en Chile. Es un aeropuerto pequeño que sirve principalmente vuelos nacionales." id="Point01" pan="-306.57" title="Aedrónomo Cañal Bajo" skinid="ht_tag_georeferencia_smallLeft" tilt="-2.5" url="images/Aeropuerto_Cañal_bajo.jpg" target=""/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomoutpause="1" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0"/>
-    <autorotate delay="20.00" noderandom="1" returntohorizon="0.000" speed="0.020" nodedelay="0.00" enabled="1" startloaded="0" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" invertwheel="0" lockedkeyboard="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0"/>
+    <autorotate enabled="1" delay="20.00" noderandom="1" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" speed="0.020" returntohorizon="0.000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" contextprojections="0" contextfullscreen="1" sensitivity="8" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node2">
-    <input overlap="1" levelbiashidpi="1.000" height="2048" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
-      <level preload="0" height="2048" width="2048" predecode="0"/>
-      <level preload="0" height="1024" width="1024" predecode="0"/>
-      <level preload="0" height="512" width="512" predecode="0"/>
-      <level preload="1" height="256" width="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2048" width="2048" levelingpitch="0">
+      <level preload="0" predecode="0" height="2048" width="2048"/>
+      <level preload="0" predecode="0" height="1024" width="1024"/>
+      <level preload="0" predecode="0" height="512" width="512"/>
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="0" pan="0" fov="70" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" pan="360" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata latitude="-40.884848" customnodeid="" info="" tags="LagunaBonita" title="default" copyright="" author="" comment="" description="" source="" longitude="-72.579233" nodeid="node2" datetime="01-01-1970 0:00"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" textalpha="1" height="20" wordwrap="1" border="1" enabled="1" width="180" borderradius="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+    <userdata description="" source="" nodeid="node2" datetime="01-01-1970 0:00" longitude="-72.579233" customnodeid="" copyright="" title="default" comment="" author="" info="" latitude="-40.884848" tags="LagunaBonita"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" backgroundalpha="1" border="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" background="1" textalpha="1" height="20" width="180" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomoutpause="1" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0"/>
-    <autorotate delay="20.00" noderandom="1" returntohorizon="0.000" speed="0.020" nodedelay="0.00" enabled="1" startloaded="0" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" invertwheel="0" lockedkeyboard="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0"/>
+    <autorotate enabled="1" delay="20.00" noderandom="1" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" speed="0.020" returntohorizon="0.000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" contextprojections="0" contextfullscreen="1" sensitivity="8" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node4">
-    <input overlap="1" levelbiashidpi="1.000" height="2048" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
-      <level preload="0" height="2048" width="2048" predecode="0"/>
-      <level preload="0" height="1024" width="1024" predecode="0"/>
-      <level preload="0" height="512" width="512" predecode="0"/>
-      <level preload="1" height="256" width="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2048" width="2048" levelingpitch="0">
+      <level preload="0" predecode="0" height="2048" width="2048"/>
+      <level preload="0" predecode="0" height="1024" width="1024"/>
+      <level preload="0" predecode="0" height="512" width="512"/>
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="0" pan="0" fov="70" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" pan="360" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata latitude="-40.317092" customnodeid="" info="" tags="LagunaBonita" title="default" copyright="" author="" comment="" description="" source="" longitude="-72.472382" nodeid="node4" datetime="01-01-1970 0:00"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" textalpha="1" height="20" wordwrap="1" border="1" enabled="1" width="180" borderradius="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+    <userdata description="" source="" nodeid="node4" datetime="01-01-1970 0:00" longitude="-72.472382" customnodeid="" copyright="" title="default" comment="" author="" info="" latitude="-40.317092" tags="LagunaBonita"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" backgroundalpha="1" border="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" background="1" textalpha="1" height="20" width="180" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomoutpause="1" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0"/>
-    <autorotate delay="20.00" noderandom="1" returntohorizon="0.000" speed="0.020" nodedelay="0.00" enabled="1" startloaded="0" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" invertwheel="0" lockedkeyboard="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0"/>
+    <autorotate enabled="1" delay="20.00" noderandom="1" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" speed="0.020" returntohorizon="0.000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" contextprojections="0" contextfullscreen="1" sensitivity="8" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node5">
-    <input overlap="1" levelbiashidpi="1.000" height="2048" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
-      <level preload="0" height="2048" width="2048" predecode="0"/>
-      <level preload="0" height="1024" width="1024" predecode="0"/>
-      <level preload="0" height="512" width="512" predecode="0"/>
-      <level preload="1" height="256" width="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2048" width="2048" levelingpitch="0">
+      <level preload="0" predecode="0" height="2048" width="2048"/>
+      <level preload="0" predecode="0" height="1024" width="1024"/>
+      <level preload="0" predecode="0" height="512" width="512"/>
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="0" pan="0" fov="70" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" pan="360" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata latitude="-40.320259" customnodeid="" info="" tags="LagunaBonita" title="default" copyright="" author="" comment="" description="" source="" longitude="-72.473222" nodeid="node5" datetime="01-01-1970 0:00"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" textalpha="1" height="20" wordwrap="1" border="1" enabled="1" width="180" borderradius="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+    <userdata description="" source="" nodeid="node5" datetime="01-01-1970 0:00" longitude="-72.473222" customnodeid="" copyright="" title="default" comment="" author="" info="" latitude="-40.320259" tags="LagunaBonita"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" backgroundalpha="1" border="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" background="1" textalpha="1" height="20" width="180" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomoutpause="1" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0"/>
-    <autorotate delay="20.00" noderandom="1" returntohorizon="0.000" speed="0.020" nodedelay="0.00" enabled="1" startloaded="0" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" invertwheel="0" lockedkeyboard="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0"/>
+    <autorotate enabled="1" delay="20.00" noderandom="1" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" speed="0.020" returntohorizon="0.000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" contextprojections="0" contextfullscreen="1" sensitivity="8" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node6">
-    <input overlap="1" levelbiashidpi="1.000" height="2048" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
-      <level preload="0" height="2048" width="2048" predecode="0"/>
-      <level preload="0" height="1024" width="1024" predecode="0"/>
-      <level preload="0" height="512" width="512" predecode="0"/>
-      <level preload="1" height="256" width="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2048" width="2048" levelingpitch="0">
+      <level preload="0" predecode="0" height="2048" width="2048"/>
+      <level preload="0" predecode="0" height="1024" width="1024"/>
+      <level preload="0" predecode="0" height="512" width="512"/>
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="0" pan="0" fov="70" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" pan="360" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata latitude="-40.312827" customnodeid="" info="" tags="LagunaBonita" title="default" copyright="" author="" comment="" description="" source="" longitude="-72.477785" nodeid="node6" datetime="01-01-1970 0:00"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" textalpha="1" height="20" wordwrap="1" border="1" enabled="1" width="180" borderradius="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+    <userdata description="" source="" nodeid="node6" datetime="01-01-1970 0:00" longitude="-72.477785" customnodeid="" copyright="" title="default" comment="" author="" info="" latitude="-40.312827" tags="LagunaBonita"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" backgroundalpha="1" border="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" background="1" textalpha="1" height="20" width="180" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomoutpause="1" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0"/>
-    <autorotate delay="20.00" noderandom="1" returntohorizon="0.000" speed="0.020" nodedelay="0.00" enabled="1" startloaded="0" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" invertwheel="0" lockedkeyboard="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0"/>
+    <autorotate enabled="1" delay="20.00" noderandom="1" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" speed="0.020" returntohorizon="0.000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" contextprojections="0" contextfullscreen="1" sensitivity="8" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node1">
-    <input overlap="1" levelbiashidpi="1.000" height="2048" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
-      <level preload="0" height="2048" width="2048" predecode="0"/>
-      <level preload="0" height="1024" width="1024" predecode="0"/>
-      <level preload="0" height="512" width="512" predecode="0"/>
-      <level preload="1" height="256" width="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="2048" width="2048" levelingpitch="0">
+      <level preload="0" predecode="0" height="2048" width="2048"/>
+      <level preload="0" predecode="0" height="1024" width="1024"/>
+      <level preload="0" predecode="0" height="512" width="512"/>
+      <level preload="1" predecode="1" height="256" width="256"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="0" pan="0" fov="70" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" pan="360" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata latitude="-40.884855" customnodeid="" info="" tags="LagunaBonita" title="default" copyright="" author="" comment="" description="" source="" longitude="-72.579239" nodeid="node1" datetime="01-01-1970 0:00"/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" textalpha="1" height="20" wordwrap="1" border="1" enabled="1" width="180" borderradius="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+    <userdata description="" source="" nodeid="node1" datetime="01-01-1970 0:00" longitude="-72.579239" customnodeid="" copyright="" title="default" comment="" author="" info="" latitude="-40.884855" tags="LagunaBonita"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label enabled="1" backgroundalpha="1" border="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" background="1" textalpha="1" height="20" width="180" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomoutpause="1" zoomin="0" zoomout="0" blendcolor="0x000000" enabled="1" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0"/>
-    <autorotate delay="20.00" noderandom="1" returntohorizon="0.000" speed="0.020" nodedelay="0.00" enabled="1" startloaded="0" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-    <control lockedwheel="0" invertcontrol="1" hideabout="0" sensitivity="8" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" invertwheel="0" lockedkeyboard="0"/>
+    <transition enabled="1" blendtime="1" blendcolor="0x000000" softedge="0" type="crossdissolve" zoomfov="20" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomout="0"/>
+    <autorotate enabled="1" delay="20.00" noderandom="1" nodedelay="0.00" startloaded="0" useanimation="0" nodefilter="" speed="0.020" returntohorizon="0.000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" simulatemass="1" contextprojections="0" contextfullscreen="1" sensitivity="8" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
   </panorama>
   <masternode>
-    <userdata latitude="" customnodeid="" info="" tags="" title="Laguna Bonita" copyright="" author="" comment="" description="" source="" longitude="" nodeid="master" datetime=""/>
+    <userdata description="" source="" nodeid="master" datetime="" longitude="" customnodeid="" copyright="" title="Laguna Bonita" comment="" author="" info="" latitude="" tags=""/>
   </masternode>
 </tour>
